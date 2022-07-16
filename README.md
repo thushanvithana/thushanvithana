@@ -27,14 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Thushan vithana</h1>
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thushanvithana&label=Profile%20views&color=0e75b6&style=flat" alt="thushanvithana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thushanvithana" alt="thushanvithana" /></a> </p>
 
@@ -64,9 +58,6 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thushanvithana&show_icons=true&locale=en" alt="thushanvithana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thushanvithana&" alt="thushanvithana" /></p>
-
-
-
 
 
 
