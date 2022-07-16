@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: [https://youtube.com/codeSTACKr](https://www.youtube.com/channel/UCv0a1V5BDbCggwFGqFd5lnQ)](https://www.youtube.com/channel/UCv0a1V5BDbCggwFGqFd5lnQ)
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
