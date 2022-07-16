@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/87628351/179353390-45ddac7d-f7e3-4c47-9eba-9137a45090f2.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thushanvithana&show_icons=true&locale=en&layout=compact" alt="thushanvithana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thushanvithana&show_icons=true&locale=en" alt="thushanvithana" /></p>
 
