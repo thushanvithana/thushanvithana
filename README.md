@@ -1,5 +1,5 @@
 # Hi there, I'm Thushan Vithana👋 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning everything 
 
 
