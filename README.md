@@ -1,6 +1,6 @@
 # Hi there, I'm Thushan Vithana👋 
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning everything 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 
 
 <!---
@@ -53,16 +53,7 @@ Github-contribution-grid-snake
 
 
 
-[website]: 
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: [https://youtube.com/codeSTACKr](https://www.youtube.com/channel/UCv0a1V5BDbCggwFGqFd5lnQ)](https://www.youtube.com/channel/UCv0a1V5BDbCggwFGqFd5lnQ)
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
 
 
 ![giphy](https://user-images.githubusercontent.com/87628351/179354916-64122f60-2a0a-451d-98da-21753bec2cb6.gif)
