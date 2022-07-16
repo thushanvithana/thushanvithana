@@ -75,10 +75,6 @@ Github-contribution-grid-snake
 
 
 
-<a href="https://twitter.com/minimalmonkey" class="icon-button twitter"><i class="icon-twitter"></i><span></span></a>
-<a href="https://facebook.com" class="icon-button facebook"><i class="icon-facebook"></i><span></span></a>
-
-
 
 
 
