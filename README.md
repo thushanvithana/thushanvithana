@@ -11,17 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-
-
-![icons8-java](https://user-images.githubusercontent.com/87628351/179350366-e75b4fce-0c1f-4721-a42c-6f46f7bd5672.gif)
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/87628351/179353390-45ddac7d-f7e3-4c47-9eba-9137a45090f2.svg)
 
-
-
-
-
-
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Thushan Vithana[youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
