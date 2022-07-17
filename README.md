@@ -1,7 +1,7 @@
 # Hi there, I'm Thushan Vithana👋 
 <h3 align="center">A passionate frontend developer from SriLanka</h3>
 - 👀 I’m interested in <br>
-- 🌱 I’m currently learning  <br>
+- 🌱 I’m currently learning C# <br>
 - 📝 I regularly write articles on https://thushanvithana.blogspot.com <br>
 - 📫 How to reach me **thushanvithana123@icloud.com** <br>
 
