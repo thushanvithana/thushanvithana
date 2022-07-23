@@ -2,7 +2,7 @@
 - 👀 I’m interested in <br>
 - 🌱 I’m currently learning C# <br>
 - 📝 I regularly write articles on https://thushanvithana.blogspot.com <br>
-- 📫 How to reach me **thushanvithana123@icloud.com** <br>
+- 📫 How to reach me **thushanvithana123@icloud.com <br>
 
 <!---
 thushanvithana/thushanvithana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
