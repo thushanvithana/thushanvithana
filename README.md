@@ -1,8 +1,8 @@
 # Hi there, I'm Thushan Vithana👋 
-- 👀 I’m interested in .......
-- 🌱 I’m currently learning ............. <br>
+- 👀 I’m interested in 
+- 🌱 I’m currently learning MERN  <br>
 - 📝 I regularly write articles on https://thushanvithana.blogspot.com <br>
-- 📫 How to reach me **thushanvithana123@icloud.com <br>
+- 📫 How to reach me: thushanvithana123@icloud.com <br>
 
 <!---
 thushanvithana/thushanvithana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
