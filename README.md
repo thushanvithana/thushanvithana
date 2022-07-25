@@ -1,6 +1,6 @@
 # Hi there, I'm Thushan Vithana👋 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning MERN  <br>
+- 
+- 🌱 I’m currently learning MERN stack <br>
 - 📝 I regularly write articles on https://thushanvithana.blogspot.com <br>
 - 📫 How to reach me: thushanvithana123@icloud.com <br>
 
