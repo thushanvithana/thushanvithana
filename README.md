@@ -7,9 +7,6 @@
 thushanvithana/thushanvithana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
 <br>
 
 ![giphy](https://user-images.githubusercontent.com/87628351/179354916-64122f60-2a0a-451d-98da-21753bec2cb6.gif)
