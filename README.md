@@ -1,5 +1,4 @@
-
-![Orange and Violet Simple Startup Business Animated Presentation (1290 × 240 px) (3)](https://user-images.githubusercontent.com/87628351/181517155-785a4521-19b1-46cb-9b2a-358036cc9872.gif)
+![Orange and Violet Simple Startup Business Animated Presentation (1290 × 240 px) (4)](https://user-images.githubusercontent.com/87628351/181518089-b33f0d60-9ab2-4b28-85bf-4631582260b3.gif)
 
 
 # Hi there, I'm Thushan Vithana👋 
