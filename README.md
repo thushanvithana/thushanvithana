@@ -64,11 +64,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> :octocat: My Github Stats:</h2>
 
-
-![filetype-java](https://user-images.githubusercontent.com/87628351/179365559-d58d298d-8ded-4a8f-b662-0409df055826.svg)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thushanvithana" alt="thushanvithana" /></a> </p>
-
 #
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thushanvithana&show_icons=true&locale=en" alt="thushanvithana" /></p>
