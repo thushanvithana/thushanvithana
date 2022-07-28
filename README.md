@@ -5,6 +5,12 @@
 - 📝 I regularly write articles on https://thushanvithana.blogspot.com <br>
 - 📫 How to reach me: thushanvithana123@icloud.com <br>
 #
+Interests
+Arcade Games, Audio, Bass, Beat Making, Blogging, Board Games, Card Games, Coding, Comedy, Computers, DJing, Drumming, Friends, Games, Guitar, Hip Hop, Listening, Making Music, Mastering, Memes, Music, Music Production, Piano, Rap, Reading, Records, Singing, Sleeping, Songwriting, Swimming, Trivia, Video, Vinyl Scratching, and Writing.
+
+Speaking and Writing
+English
+
 <!---
 thushanvithana/thushanvithana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
