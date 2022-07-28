@@ -1,6 +1,5 @@
 
-
-![Uploading Orange and Violet Simple Startup Business Animated Presentation (1290 × 240 px) (1) (1).gif…]()
+![Orange and Violet Simple Startup Business Animated Presentation (1290 × 240 px) (3)](https://user-images.githubusercontent.com/87628351/181517155-785a4521-19b1-46cb-9b2a-358036cc9872.gif)
 
 
 # Hi there, I'm Thushan Vithana👋 
@@ -43,8 +42,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thushanvithana&" alt="thushanvithana" /></p>
 <br/>
-
-
 
 
 
