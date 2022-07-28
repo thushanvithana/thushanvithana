@@ -1,3 +1,8 @@
+![Orange and Violet Simple Startup Business Animated Presentation (1290 × 240 px)](https://user-images.githubusercontent.com/87628351/181503897-11e3b0ba-74d4-4b0c-8aeb-880668b9fa2f.gif)
+
+
+
+
 # Hi there, I'm Thushan Vithana👋 
 - 🌱 I’m currently learning MERN stack <br>
 - 📝 I regularly write articles on https://thushanvithana.blogspot.com <br>
