@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning MERN stack <br>
 - 📝 I rarely write articles on https://thushanvithana.blogspot.com <br>
 - 📫 How to reach me: thushanvithana123@icloud.com <br>
-- 🌱  I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation. <br>
-- 📝 Python was my first programming language
+- ⛰️  I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation. <br>
+- 🐍 Python was my first programming language
 
 #
 <h2>Interests</h2>
@@ -35,7 +35,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h2>My Github Stats</h2>
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/87628351/179353390-45ddac7d-f7e3-4c47-9eba-9137a45090f2.svg)
+
+<h2> :octocat: My Github Stats:</h2>
 
 
 ![filetype-java](https://user-images.githubusercontent.com/87628351/179365559-d58d298d-8ded-4a8f-b662-0409df055826.svg)
@@ -46,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/87628351/179353390-45ddac7d-f7e3-4c47-9eba-9137a45090f2.svg)
+
 
 #
 
