@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.icons8.com/color/50/000000/adobe-lightroom--v1.png"/></a>
 </p>
 
-I have nothing to show cuz snakes are eating them...:stuck_out_tongue_closed_eyes:
+~~I have nothing to show cuz snakes are eating them ~~ :thought_balloon: 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/87628351/179353390-45ddac7d-f7e3-4c47-9eba-9137a45090f2.svg)
 
 <h2> :octocat: My Github Stats:</h2>
