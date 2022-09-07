@@ -1,7 +1,7 @@
 
 ![Orange and Violet Simple Startup Business Animated Presentation (1290 × 240 px) (4)](https://user-images.githubusercontent.com/87628351/181518089-b33f0d60-9ab2-4b28-85bf-4631582260b3.gif)
 
-- 🌱 I’m currently learning MERN stack <br>
+- 🌱 I’m currently learning MERN STACK <br>
 - 📝 I rarely write articles on https://thushanvithana.blogspot.com <br>
 - 📫 How to reach me: thushanvithana123@icloud.com <br>
 - ⛰️  I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation. <br>
