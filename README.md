@@ -79,6 +79,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/thushanvithana?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+[<img src="https://raw.githubusercontent.com/[your-github-username]/[your-github-username]/main/profile-views.svg" height="50"/>](https://github.com/[your-github-username])
+
 
 
 
