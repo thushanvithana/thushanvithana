@@ -73,7 +73,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter * 100">
+<a href="https://github.com/Meghna-DAS * 100/github-profile-views-counter * 100">
     <img src="https://komarev.com/ghpvc/?username=thushanvithana">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/thushanvithana?label=Followers&style=social" alt="GitHub Badge"></a>
