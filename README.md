@@ -77,14 +77,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![github-user-contribution](https://user-images.githubusercontent.com/87628351/207801082-a380040f-5f61-49cf-9945-4cb1a0f8ce26.svg)
-
-
- 
-
-     
-
-
-
-
 
